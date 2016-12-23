@@ -149,6 +149,7 @@ xcopy "$(ProjectDir)..\Resources" "$(OutDir)" /D /E /I /F /Y
     <ClCompile Include="..\Classes\B2Sprite.cpp" />
     <ClCompile Include="..\Classes\Button.cpp" />
     <ClCompile Include="..\Classes\CollisionListener.cpp" />
+    <ClCompile Include="..\Classes\ControlSelectionScene.cpp" />
     <ClCompile Include="..\Classes\DynamicHumanEnemy.cpp" />
     <ClCompile Include="..\Classes\Enemy.cpp" />
     <ClCompile Include="..\Classes\Floor.cpp" />
@@ -162,6 +163,7 @@ xcopy "$(ProjectDir)..\Resources" "$(OutDir)" /D /E /I /F /Y
     <ClCompile Include="..\Classes\SneakyButtonSkinnedBase.cpp" />
     <ClCompile Include="..\Classes\SneakyJoystick.cpp" />
     <ClCompile Include="..\Classes\SneakyJoystickSkinnedBase.cpp" />
+    <ClCompile Include="..\Classes\StartScene.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -170,6 +172,7 @@ xcopy "$(ProjectDir)..\Resources" "$(OutDir)" /D /E /I /F /Y
     <ClInclude Include="..\Classes\B2Sprite.h" />
     <ClInclude Include="..\Classes\Button.h" />
     <ClInclude Include="..\Classes\CollisionListener.h" />
+    <ClInclude Include="..\Classes\ControlSelectionScene.h" />
     <ClInclude Include="..\Classes\DynamicHumanEnemy.h" />
     <ClInclude Include="..\Classes\Enemy.h" />
     <ClInclude Include="..\Classes\Floor.h" />
@@ -184,6 +187,7 @@ xcopy "$(ProjectDir)..\Resources" "$(OutDir)" /D /E /I /F /Y
     <ClInclude Include="..\Classes\SneakyButtonSkinnedBase.h" />
     <ClInclude Include="..\Classes\SneakyJoystick.h" />
     <ClInclude Include="..\Classes\SneakyJoystickSkinnedBase.h" />
+    <ClInclude Include="..\Classes\StartScene.h" />
     <ClInclude Include="main.h" />
   </ItemGroup>
   <ItemGroup>
