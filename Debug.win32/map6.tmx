@@ -9,19 +9,19 @@
   </data>
  </layer>
  <objectgroup name="floor">
-  <object id="205" x="0" y="321.212" width="1672.73" height="15.1515"/>
-  <object id="206" x="1990.91" y="130.303" width="633.333" height="12.1212"/>
+  <object id="205" x="0" y="319.212" width="1671.73" height="17.1515"/>
+  <object id="206" x="1990.91" y="129.303" width="633.333" height="13.1212"/>
   <object id="207" x="3200" y="257.576" width="1275.76" height="15.1515"/>
   <object id="215" x="1381.82" y="236.364" width="218.182" height="18.1818"/>
   <object id="217" x="678.788" y="112.121" width="533.333" height="15.1515"/>
   <object id="220" x="2115.15" y="418.182" width="254.545" height="18.1818"/>
-  <object id="223" x="3506.06" y="100" width="784.848" height="18.1818"/>
+  <object id="223" x="3506.06" y="109" width="784.848" height="18.1818"/>
  </objectgroup>
  <objectgroup name="ladder">
-  <object id="208" x="1667" y="130" width="324" height="193"/>
+  <object id="208" x="1660" y="128" width="333" height="196"/>
  </objectgroup>
  <objectgroup name="ladder2">
-  <object id="209" x="2618.18" y="130" width="587.879" height="128"/>
+  <object id="209" x="2624.18" y="129" width="584.879" height="131"/>
  </objectgroup>
  <objectgroup name="minifort">
   <object id="224" x="3815.15" y="54.5455" width="72.7273" height="39.3939"/>

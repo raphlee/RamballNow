@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" renderorder="left-down" width="50" height="7" tilewidth="64" tileheight="64" nextobjectid="120">
- <tileset firstgid="1" name="background" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="background" tilewidth="64" tileheight="64" tilecount="84" columns="12">
   <image source="background.png" width="800" height="480"/>
  </tileset>
  <layer name="Tile Layer 1" width="50" height="7">
@@ -20,7 +20,7 @@
   <object id="116" x="855" y="325" width="123" height="14"/>
  </objectgroup>
  <objectgroup name="ladder">
-  <object id="93" x="1980" y="272.727" width="652" height="149.273"/>
+  <object id="93" x="1975.33" y="276.727" width="650.667" height="149.94"/>
  </objectgroup>
  <objectgroup name="ladder2"/>
  <objectgroup name="minifort"/>

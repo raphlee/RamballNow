@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" renderorder="left-down" width="70" height="7" tilewidth="64" tileheight="64" nextobjectid="255">
- <tileset firstgid="1" name="background" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="background" tilewidth="64" tileheight="64" tilecount="84" columns="12">
   <image source="background.png" width="800" height="480"/>
  </tileset>
  <layer name="Tile Layer 1" width="70" height="7">
@@ -9,20 +9,20 @@
   </data>
  </layer>
  <objectgroup name="floor">
-  <object id="227" x="8" y="420" width="807.152" height="20"/>
+  <object id="227" x="8" y="420" width="760.152" height="20"/>
   <object id="228" x="1086" y="270" width="716" height="20"/>
   <object id="230" x="2646" y="366" width="728" height="16"/>
   <object id="232" x="3916" y="280" width="564" height="20"/>
   <object id="244" x="2134" y="100" width="220" height="18"/>
   <object id="247" x="3512" y="178" width="152" height="10"/>
-  <object id="250" x="851.515" y="418.182" width="106.061" height="24.2424"/>
-  <object id="251" x="987.879" y="421.212" width="215.152" height="18.1818"/>
-  <object id="252" x="1260.61" y="418.182" width="184.848" height="21.2121"/>
-  <object id="253" x="1463.64" y="421.212" width="187.879" height="21.2121"/>
+  <object id="250" x="832.515" y="418.182" width="125.061" height="24.2424"/>
+  <object id="251" x="1021.88" y="421.212" width="191.152" height="18.1818"/>
+  <object id="252" x="1280.61" y="418.182" width="126.848" height="21.2121"/>
+  <object id="253" x="1469.64" y="421.212" width="181.879" height="21.2121"/>
  </objectgroup>
  <objectgroup name="ladder">
-  <object id="229" x="1645.33" y="366.667" width="1008" height="56"/>
-  <object id="231" x="3365.33" y="280" width="556" height="86.6667"/>
+  <object id="229" x="1650.33" y="366.667" width="998" height="55"/>
+  <object id="231" x="3373.33" y="280" width="544" height="86.6667"/>
  </objectgroup>
  <objectgroup name="ladder2"/>
  <objectgroup name="minifort">

@@ -20,10 +20,10 @@
   <object id="175" x="438" y="307" width="484" height="14"/>
  </objectgroup>
  <objectgroup name="ladder">
-  <object id="157" x="1334.06" y="252" width="466.667" height="133.333"/>
+  <object id="157" x="1342.06" y="252" width="454.667" height="135.333"/>
  </objectgroup>
  <objectgroup name="ladder2">
-  <object id="158" x="2421.94" y="252.667" width="276.06" height="129.333"/>
+  <object id="158" x="2424.94" y="252.667" width="279.06" height="136.333"/>
  </objectgroup>
  <objectgroup name="minifort">
   <object id="164" x="2173.45" y="60.6061" width="63.6364" height="60.6061"/>
