@@ -61,4 +61,5 @@
   <object id="238" x="4056" y="116" width="128" height="48"/>
   <object id="249" x="394" y="196" width="110" height="36"/>
  </objectgroup>
+ <objectgroup name="item_health"/>
 </map>

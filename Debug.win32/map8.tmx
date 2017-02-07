@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" renderorder="left-down" width="70" height="7" tilewidth="64" tileheight="64" nextobjectid="297">
- <tileset firstgid="1" name="background" tilewidth="64" tileheight="64">
+<map version="1.0" orientation="orthogonal" renderorder="left-down" width="70" height="7" tilewidth="64" tileheight="64" nextobjectid="299">
+ <tileset firstgid="1" name="background" tilewidth="64" tileheight="64" tilecount="84" columns="12">
   <image source="background.png" width="800" height="480"/>
  </tileset>
  <layer name="Tile Layer 1" width="70" height="7">
@@ -72,5 +72,8 @@
   <object id="270" x="3344" y="24" width="42" height="34"/>
   <object id="271" x="4388" y="194" width="48" height="42"/>
   <object id="277" x="2728" y="32" width="44" height="40"/>
+ </objectgroup>
+ <objectgroup name="item_health">
+  <object id="297" x="1384" y="285" width="50" height="26"/>
  </objectgroup>
 </map>
