@@ -9,38 +9,38 @@
   </data>
  </layer>
  <objectgroup name="floor">
-  <object id="116" x="0" y="200" width="1468" height="28"/>
-  <object id="117" x="1544" y="196" width="483.273" height="28"/>
-  <object id="118" x="2108" y="196" width="1084" height="32"/>
-  <object id="119" x="192" y="416" width="188" height="28"/>
-  <object id="120" x="636" y="420" width="196" height="20"/>
-  <object id="121" x="942.667" y="324" width="285.333" height="28"/>
-  <object id="122" x="1661.33" y="420" width="236" height="28"/>
-  <object id="123" x="1408" y="264" width="196" height="24"/>
-  <object id="125" x="1976" y="324" width="246.667" height="20"/>
+  <object id="116" x="0" y="193" width="1408" height="28"/>
+  <object id="117" x="1537" y="193" width="447.273" height="24"/>
+  <object id="118" x="2113" y="192" width="1022" height="26"/>
+  <object id="119" x="192" y="418" width="190" height="28"/>
+  <object id="120" x="639" y="420" width="193" height="26"/>
+  <object id="121" x="960.667" y="321" width="255.333" height="28"/>
+  <object id="122" x="1661.33" y="427" width="195" height="21"/>
+  <object id="123" x="1408" y="256" width="127" height="24"/>
+  <object id="125" x="1984" y="321" width="126.667" height="20"/>
  </objectgroup>
  <objectgroup name="ladder"/>
  <objectgroup name="ladder2"/>
  <objectgroup name="minifort"/>
  <objectgroup name="bigfort"/>
  <objectgroup name="stand_man">
-  <object id="126" x="246.667" y="322.667" width="72" height="80"/>
-  <object id="127" x="693" y="312.667" width="68" height="82.667"/>
-  <object id="128" x="1045.33" y="213" width="76" height="95"/>
-  <object id="129" x="1760" y="307" width="57" height="105"/>
-  <object id="130" x="2070.33" y="229" width="71.67" height="89"/>
+  <object id="126" x="285.667" y="322.667" width="33" height="80"/>
+  <object id="127" x="736" y="312.667" width="25" height="82.667"/>
+  <object id="128" x="1087.33" y="213" width="34" height="95"/>
+  <object id="129" x="1759" y="345" width="10" height="65"/>
+  <object id="130" x="2048.33" y="230" width="13.67" height="89"/>
  </objectgroup>
  <objectgroup name="hide_man">
-  <object id="131" x="2716" y="136" width="60" height="56"/>
+  <object id="131" x="2803.88" y="126.909" width="60" height="56"/>
  </objectgroup>
  <objectgroup name="moveEnemy">
-  <object id="132" x="576" y="72" width="1308" height="88"/>
+  <object id="132" x="576" y="72" width="870" height="88"/>
  </objectgroup>
  <objectgroup name="bridge_head"/>
  <objectgroup name="bridge_body"/>
  <objectgroup name="bridge_tail"/>
  <objectgroup name="rewardM">
-  <object id="134" x="161" y="150" width="57" height="45"/>
+  <object id="134" x="161" y="145" width="57" height="45"/>
  </objectgroup>
  <objectgroup name="rewardF"/>
  <objectgroup name="rewardS"/>

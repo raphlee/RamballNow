@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" renderorder="left-down" width="90" height="7" tilewidth="64" tileheight="64" nextobjectid="365">
- <tileset firstgid="1" name="background" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="background" tilewidth="64" tileheight="64" tilecount="84" columns="12">
   <image source="background.png" width="800" height="480"/>
  </tileset>
  <layer name="Tile Layer 1" width="90" height="7">
@@ -21,8 +21,8 @@
  <objectgroup name="stand_man"/>
  <objectgroup name="hide_man"/>
  <objectgroup name="moveEnemy">
-  <object id="346" x="764" y="312" width="432" height="96"/>
-  <object id="347" x="2544" y="320" width="1056" height="84"/>
+  <object id="346" x="891" y="312" width="305" height="96"/>
+  <object id="347" x="2827.27" y="320" width="772.727" height="84"/>
   <object id="348" x="4772" y="312" width="472" height="88"/>
  </objectgroup>
  <objectgroup name="bridge_head"/>
@@ -38,15 +38,7 @@
   <object id="335" x="144" y="368" width="84" height="40"/>
  </objectgroup>
  <objectgroup name="tank"/>
- <objectgroup name="plane">
-  <object id="352" x="2124" y="120" width="104" height="48"/>
-  <object id="353" x="2340" y="124" width="144" height="48"/>
-  <object id="354" x="2596" y="124" width="140" height="48"/>
-  <object id="355" x="3744" y="136" width="96" height="60"/>
-  <object id="356" x="3488" y="132" width="104" height="60"/>
-  <object id="358" x="5116" y="128" width="116" height="48"/>
-  <object id="359" x="5376" y="72" width="108" height="56"/>
- </objectgroup>
+ <objectgroup name="plane"/>
  <objectgroup name="plane2"/>
  <objectgroup name="tank2"/>
  <objectgroup name="tank_move">
@@ -56,8 +48,14 @@
  <objectgroup name="plane_bomb">
   <object id="360" x="1076" y="120" width="136" height="72"/>
   <object id="361" x="448" y="116" width="132" height="72"/>
+  <object id="356" x="3488" y="132" width="104" height="60"/>
+  <object id="358" x="5116" y="128" width="116" height="48"/>
+  <object id="359" x="5376" y="72" width="108" height="56"/>
  </objectgroup>
  <objectgroup name="plane_bomb_back">
   <object id="362" x="4132" y="60" width="112" height="52"/>
+  <object id="352" x="2124" y="120" width="104" height="48"/>
+  <object id="353" x="2470.3" y="187.636" width="144" height="48"/>
+  <object id="355" x="3744" y="136" width="96" height="60"/>
  </objectgroup>
 </map>

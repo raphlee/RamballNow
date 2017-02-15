@@ -1,5 +1,6 @@
 
 tank.png
+size: 1024,128
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -41,7 +42,7 @@ eff-0
 eff-1
   rotate: false
   xy: 988, 87
-  size: 24, 39
+  size: 25, 39
   orig: 25, 39
   offset: 0, 0
   index: -1
@@ -54,10 +55,10 @@ eff-2
   index: -1
 eff-3
   rotate: true
-  xy: 497, 40
-  size: 44, 89
+  xy: 497, 39
+  size: 45, 90
   orig: 45, 90
-  offset: 0, 1
+  offset: 0, 0
   index: -1
 gun-1
   rotate: false
@@ -75,14 +76,14 @@ gun-1-2
   index: -1
 gun-2
   rotate: false
-  xy: 535, 12
+  xy: 426, 4
   size: 29, 26
   orig: 29, 26
   offset: 0, 0
   index: -1
 gun-2-2
   rotate: false
-  xy: 426, 4
+  xy: 457, 4
   size: 29, 26
   orig: 29, 26
   offset: 0, 0
@@ -166,15 +167,15 @@ wheel-3-2
   index: -1
 wheel-4
   rotate: false
-  xy: 497, 2
-  size: 36, 36
+  xy: 605, 66
+  size: 37, 36
   orig: 37, 36
   offset: 0, 0
   index: -1
 wheel-4-2
-  rotate: false
-  xy: 356, 17
-  size: 36, 36
+  rotate: true
+  xy: 356, 16
+  size: 37, 36
   orig: 37, 36
   offset: 0, 0
   index: -1

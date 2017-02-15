@@ -120,6 +120,12 @@
     <ClCompile Include="..\Classes\BombOfEnemy.cpp">
       <Filter>src</Filter>
     </ClCompile>
+    <ClCompile Include="..\Classes\AudioManager.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Dialog.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
@@ -231,6 +237,12 @@
       <Filter>src</Filter>
     </ClInclude>
     <ClInclude Include="..\Classes\BombOfEnemy.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AudioManager.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Dialog.h">
       <Filter>src</Filter>
     </ClInclude>
   </ItemGroup>
