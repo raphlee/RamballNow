@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" renderorder="left-down" width="71" height="7" tilewidth="64" tileheight="64" nextobjectid="222">
+<map version="1.0" orientation="orthogonal" renderorder="left-down" width="71" height="7" tilewidth="64" tileheight="64" nextobjectid="230">
  <tileset firstgid="1" name="background" tilewidth="64" tileheight="64" tilecount="84" columns="12">
   <image source="background.png" width="800" height="480"/>
  </tileset>
@@ -9,13 +9,13 @@
   </data>
  </layer>
  <objectgroup name="floor">
-  <object id="177" x="3.0303" y="381.818" width="1296.97" height="18.1818"/>
-  <object id="179" x="2816.33" y="288.667" width="129" height="24.121"/>
-  <object id="180" x="3264" y="289.879" width="484.482" height="22.2424"/>
+  <object id="177" x="3.0303" y="385.818" width="1292.97" height="10.1818"/>
+  <object id="179" x="2816.33" y="288.667" width="63" height="24.121"/>
+  <object id="180" x="3584" y="289.879" width="164.482" height="22.2424"/>
   <object id="182" x="4290.91" y="345.455" width="233.333" height="30.303"/>
   <object id="183" x="1984.85" y="418.182" width="345.455" height="24.2424"/>
   <object id="184" x="2424.24" y="418.182" width="336.364" height="27.2727"/>
-  <object id="185" x="3264.76" y="403.03" width="483.727" height="21.2121"/>
+  <object id="185" x="3328.76" y="403.03" width="189.727" height="21.2121"/>
   <object id="186" x="127.212" y="255.485" width="511.242" height="15.1515"/>
   <object id="187" x="641.364" y="191.848" width="319.394" height="12.1212"/>
   <object id="188" x="966.667" y="127.273" width="375.758" height="18.1818"/>
@@ -28,13 +28,19 @@
   <object id="213" x="2433.18" y="285.667" width="64.1515" height="27.9996"/>
   <object id="214" x="2559.33" y="286.667" width="65.2424" height="27.1514"/>
   <object id="215" x="2687.33" y="286.667" width="64" height="28"/>
-  <object id="217" x="3009" y="288.667" width="189" height="24"/>
+  <object id="217" x="2945" y="288.667" width="61" height="24"/>
+  <object id="222" x="3072" y="291.879" width="63.482" height="22.2424"/>
+  <object id="223" x="3199" y="291.879" width="65.482" height="22.2424"/>
+  <object id="224" x="3328" y="290.879" width="63.482" height="22.2424"/>
+  <object id="225" x="3457" y="290.879" width="62.482" height="22.2424"/>
+  <object id="227" x="3073.76" y="403.03" width="189.727" height="21.2121"/>
+  <object id="229" x="2816.76" y="401.03" width="189.727" height="21.2121"/>
  </objectgroup>
  <objectgroup name="ladder">
-  <object id="178" x="1289" y="291" width="861" height="91"/>
+  <object id="178" x="1295" y="294" width="853" height="87"/>
  </objectgroup>
  <objectgroup name="ladder2">
-  <object id="181" x="3745" y="291" width="560.667" height="63"/>
+  <object id="181" x="3744" y="292" width="553.667" height="62"/>
  </objectgroup>
  <objectgroup name="minifort">
   <object id="198" x="2556.85" y="353.091" width="81.8182" height="57.5758"/>
@@ -48,14 +54,16 @@
  </objectgroup>
  <objectgroup name="stand_man">
   <object id="197" x="2207.91" y="357.455" width="48.8485" height="57.5758"/>
-  <object id="202" x="3457.58" y="342.424" width="69.697" height="45.4545"/>
+  <object id="202" x="3422.58" y="346.424" width="35.697" height="45.4545"/>
+  <object id="226" x="3167.58" y="346.424" width="35.697" height="45.4545"/>
+  <object id="228" x="2910.58" y="344.424" width="35.697" height="45.4545"/>
  </objectgroup>
  <objectgroup name="hide_man">
-  <object id="206" x="3574" y="190" width="52" height="54"/>
+  <object id="206" x="3656" y="224" width="52" height="54"/>
  </objectgroup>
  <objectgroup name="moveEnemy">
   <object id="195" x="1218" y="317.454" width="62" height="57.5758"/>
-  <object id="196" x="2529.33" y="122.788" width="121" height="63.6364"/>
+  <object id="196" x="2629.33" y="127.788" width="121" height="63.6364"/>
  </objectgroup>
  <objectgroup name="bridge_head"/>
  <objectgroup name="bridge_body"/>

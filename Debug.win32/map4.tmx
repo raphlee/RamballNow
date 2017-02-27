@@ -51,13 +51,11 @@
  <objectgroup name="rewardM"/>
  <objectgroup name="rewardF"/>
  <objectgroup name="rewardS">
-  <object id="173" x="1803" y="191" width="54" height="49"/>
+  <object id="173" x="195" y="322" width="54" height="49"/>
  </objectgroup>
  <objectgroup name="rewardFlyS"/>
  <objectgroup name="rewardFlyF"/>
  <objectgroup name="item_plane"/>
  <objectgroup name="item_tank"/>
- <objectgroup name="item_health">
-  <object id="178" x="827" y="259" width="45" height="32"/>
- </objectgroup>
+ <objectgroup name="item_health"/>
 </map>

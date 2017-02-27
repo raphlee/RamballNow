@@ -162,7 +162,6 @@ xcopy "$(ProjectDir)..\Resources" "$(OutDir)" /D /E /I /F /Y
     <ClCompile Include="..\Classes\Fort.cpp" />
     <ClCompile Include="..\Classes\GameScene.cpp" />
     <ClCompile Include="..\Classes\GB2ShapeCache-x.cpp" />
-    <ClCompile Include="..\Classes\GLES-Render.cpp" />
     <ClCompile Include="..\Classes\HelicopterBoomEnemy.cpp" />
     <ClCompile Include="..\Classes\HelicopterShootEnemy.cpp" />
     <ClCompile Include="..\Classes\HelicopterSoldier.cpp" />
@@ -177,6 +176,7 @@ xcopy "$(ProjectDir)..\Resources" "$(OutDir)" /D /E /I /F /Y
     <ClCompile Include="..\Classes\SneakyJoystick.cpp" />
     <ClCompile Include="..\Classes\SneakyJoystickSkinnedBase.cpp" />
     <ClCompile Include="..\Classes\Soldier.cpp" />
+    <ClCompile Include="..\Classes\SplashScene.cpp" />
     <ClCompile Include="..\Classes\StartScene.cpp" />
     <ClCompile Include="..\Classes\StaticHumanEnemy.cpp" />
     <ClCompile Include="..\Classes\TankEnemy.cpp" />
@@ -202,7 +202,6 @@ xcopy "$(ProjectDir)..\Resources" "$(OutDir)" /D /E /I /F /Y
     <ClInclude Include="..\Classes\Fort.h" />
     <ClInclude Include="..\Classes\GameScene.h" />
     <ClInclude Include="..\Classes\GB2ShapeCache-x.h" />
-    <ClInclude Include="..\Classes\GLES-Render.h" />
     <ClInclude Include="..\Classes\Global.h" />
     <ClInclude Include="..\Classes\HelicopterBoomEnemy.h" />
     <ClInclude Include="..\Classes\HelicopterShootEnemy.h" />
@@ -218,6 +217,7 @@ xcopy "$(ProjectDir)..\Resources" "$(OutDir)" /D /E /I /F /Y
     <ClInclude Include="..\Classes\SneakyJoystick.h" />
     <ClInclude Include="..\Classes\SneakyJoystickSkinnedBase.h" />
     <ClInclude Include="..\Classes\Soldier.h" />
+    <ClInclude Include="..\Classes\SplashScene.h" />
     <ClInclude Include="..\Classes\StartScene.h" />
     <ClInclude Include="..\Classes\StaticHumanEnemy.h" />
     <ClInclude Include="..\Classes\TankEnemy.h" />

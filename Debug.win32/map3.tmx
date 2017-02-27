@@ -16,7 +16,7 @@
   <object id="139" x="1919.15" y="217.212" width="128" height="15"/>
   <object id="140" x="2625.64" y="281.333" width="125" height="24"/>
   <object id="147" x="1227.27" y="409.091" width="116.212" height="21.2121"/>
-  <object id="152" x="896" y="383" width="247" height="14"/>
+  <object id="152" x="815" y="416" width="340" height="14"/>
  </objectgroup>
  <objectgroup name="ladder"/>
  <objectgroup name="ladder2">
@@ -25,7 +25,7 @@
  <objectgroup name="minifort"/>
  <objectgroup name="bigfort"/>
  <objectgroup name="stand_man">
-  <object id="148" x="1279.48" y="333.333" width="38.697" height="63.6364"/>
+  <object id="148" x="1279.48" y="353" width="38.697" height="43.9694"/>
  </objectgroup>
  <objectgroup name="hide_man">
   <object id="141" x="768.424" y="209.091" width="61.8485" height="66.7576"/>
@@ -44,7 +44,7 @@
  <objectgroup name="bridge_tail"/>
  <objectgroup name="rewardM"/>
  <objectgroup name="rewardF">
-  <object id="151" x="942" y="335" width="59" height="41"/>
+  <object id="151" x="831" y="366" width="59" height="41"/>
  </objectgroup>
  <objectgroup name="rewardS"/>
  <objectgroup name="rewardFlyS"/>
